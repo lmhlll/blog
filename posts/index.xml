@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Li Minghui&#39;s Blog</title>
-        <link>https://lmhlll.github.io/lmhblog/</link>
-        <description>Thinking ahead</description>
+        <title>All Posts - Li Minghui&#39;s Blog</title>
+        <link>https://lmhlll.github.io/lmhblog/posts/</link>
+        <description>All Posts | Li Minghui&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>894194906@qq.com (Li Minghui)</managingEditor>
-            <webMaster>894194906@qq.com (Li Minghui)</webMaster><lastBuildDate>Tue, 12 Apr 2022 20:32:25 &#43;0800</lastBuildDate>
-            <atom:link href="https://lmhlll.github.io/lmhblog/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>894194906@qq.com (Li Minghui)</webMaster><lastBuildDate>Tue, 12 Apr 2022 20:32:25 &#43;0800</lastBuildDate><atom:link href="https://lmhlll.github.io/lmhblog/posts/" rel="self" type="application/rss+xml" /><item>
     <title>First_post</title>
     <link>https://lmhlll.github.io/lmhblog/first_post/</link>
     <pubDate>Tue, 12 Apr 2022 20:32:25 &#43;0800</pubDate>
