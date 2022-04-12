@@ -8,19 +8,19 @@
         <title>Hacker&#39;s guide to Neural Networks - Li Minghui&#39;s Blog</title><meta name="Description" content="Thinking ahead"><meta property="og:title" content="Hacker&#39;s guide to Neural Networks" />
 <meta property="og:description" content="Hi there, I&rsquo;m a CS PhD student at Stanford. I&rsquo;ve worked on Deep Learning for a few years as part of my research and among several of my related pet projects is ConvNetJS - a Javascript library for training Neural Networks. Javascript allows one to nicely visualize what&rsquo;s going on and to play around with the various hyperparameter settings, but I still regularly hear from people who ask for a more thorough treatment of the topic." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://lmhlll.github.io/lmhblog/nntutorial/" /><meta property="og:image" content="https://lmhlll.github.io/lmhblog/lmh.jpg"/><meta property="article:section" content="posts" />
+<meta property="og:url" content="http://example.org/nntutorial/" /><meta property="og:image" content="http://example.org/lmh.jpg"/><meta property="article:section" content="posts" />
 
 
 
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://lmhlll.github.io/lmhblog/lmh.jpg"/>
+<meta name="twitter:image" content="http://example.org/lmh.jpg"/>
 
 <meta name="twitter:title" content="Hacker&#39;s guide to Neural Networks"/>
 <meta name="twitter:description" content="Hi there, I&rsquo;m a CS PhD student at Stanford. I&rsquo;ve worked on Deep Learning for a few years as part of my research and among several of my related pet projects is ConvNetJS - a Javascript library for training Neural Networks. Javascript allows one to nicely visualize what&rsquo;s going on and to play around with the various hyperparameter settings, but I still regularly hear from people who ask for a more thorough treatment of the topic."/>
 <meta name="application-name" content="lmh">
 <meta name="apple-mobile-web-app-title" content="lmh"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://lmhlll.github.io/lmhblog/nntutorial/" /><link rel="next" href="https://lmhlll.github.io/lmhblog/test_post/" /><link rel="stylesheet" href="/lmhblog/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/lmhblog/css/style.min.css"><link rel="stylesheet" href="/lmhblog/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lmhblog/lib/animate/animate.min.css"><script type="application/ld+json">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="http://example.org/nntutorial/" /><link rel="next" href="http://example.org/test_post111/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
@@ -28,9 +28,9 @@
         "inLanguage": "en",
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https:\/\/lmhlll.github.io\/lmhblog\/nntutorial\/"
+            "@id": "http:\/\/example.org\/nntutorial\/"
         },"genre": "posts","wordcount":  13952 ,
-        "url": "https:\/\/lmhlll.github.io\/lmhblog\/nntutorial\/","publisher": {
+        "url": "http:\/\/example.org\/nntutorial\/","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
                 "@type": "Person",
@@ -43,9 +43,9 @@
         <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
     <div class="header-wrapper">
         <div class="header-title">
-            <a href="/lmhblog/" title="Li Minghui&#39;s Blog"><img
+            <a href="/" title="Li Minghui&#39;s Blog"><img
         class="lazyload logo"
-        src="/lmhblog/svg/loading.min.svg"
+        src="/svg/loading.min.svg"
         data-src="touxiang.JPG"
         data-srcset="touxiang.JPG, touxiang.JPG 1.5x, touxiang.JPG 2x"
         data-sizes="auto"
@@ -53,7 +53,7 @@
         title="touxiang.JPG" />Li Minghui&#39;s Blog</a>
         </div>
         <div class="menu">
-            <div class="menu-inner"><a class="menu-item" href="/lmhblog/lmhblog/posts/" title="lmh"> Posts </a><a class="menu-item" href="/lmhblog/lmhblog/tags/"> Tags </a><a class="menu-item" href="/lmhblog/lmhblog/categories/"> Categories </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> Posts </a><a class="menu-item" href="/tags/"> Tags </a><a class="menu-item" href="/categories/"> Categories </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
                         <input type="text" placeholder="Search titles or contents..." id="search-input-desktop">
                         <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Search">
                             <i class="fas fa-search fa-fw"></i>
@@ -74,9 +74,9 @@
     <div class="header-container">
         <div class="header-wrapper">
             <div class="header-title">
-                <a href="/lmhblog/" title="Li Minghui&#39;s Blog"><img
+                <a href="/" title="Li Minghui&#39;s Blog"><img
         class="lazyload logo"
-        src="/lmhblog/svg/loading.min.svg"
+        src="/svg/loading.min.svg"
         data-src="touxiang.JPG"
         data-srcset="touxiang.JPG, touxiang.JPG 1.5x, touxiang.JPG 2x"
         data-sizes="auto"
@@ -103,7 +103,7 @@
                     <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
                         Cancel
                     </a>
-                </div><a class="menu-item" href="/lmhblog/lmhblog/posts/" title="lmh">Posts</a><a class="menu-item" href="/lmhblog/lmhblog/tags/" title="">Tags</a><a class="menu-item" href="/lmhblog/lmhblog/categories/" title="">Categories</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                </div><a class="menu-item" href="/posts/" title="">Posts</a><a class="menu-item" href="/tags/" title="">Tags</a><a class="menu-item" href="/categories/" title="">Categories</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
                 <i class="fas fa-adjust fa-fw"></i>
             </a></div>
     </div>
@@ -119,7 +119,7 @@
             <h2 class="toc-title">Contents</h2>
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Hacker&#39;s guide to Neural Networks</h1><div class="post-meta">
-            <div class="post-meta-line"><span class="post-author"><a href="/lmhblog/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>Li Minghui</a></span></div>
+            <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>Li Minghui</a></span></div>
             <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="0001-01-01">0001-01-01</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;13952 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;66 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="true">
@@ -1957,10 +1957,10 @@ $$</p>
         </div>
         <div class="post-info-line">
             <div class="post-info-md"><span>
-                            <a class="link-to-markdown" href="/lmhblog/nntutorial/index.md" target="_blank">Read Markdown</a>
+                            <a class="link-to-markdown" href="/nntutorial/index.md" target="_blank">Read Markdown</a>
                         </span></div>
             <div class="post-info-share">
-                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://lmhlll.github.io/lmhblog/nntutorial/" data-title="Hacker&#39;s guide to Neural Networks"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="https://lmhlll.github.io/lmhblog/nntutorial/"><i class="fab fa-facebook-square fa-fw"></i></a><a href="javascript:void(0);" title="Share on WhatsApp" data-sharer="whatsapp" data-url="https://lmhlll.github.io/lmhblog/nntutorial/" data-title="Hacker&#39;s guide to Neural Networks" data-web><i class="fab fa-whatsapp fa-fw"></i></a><a href="javascript:void(0);" title="Share on Line" data-sharer="line" data-url="https://lmhlll.github.io/lmhblog/nntutorial/" data-title="Hacker&#39;s guide to Neural Networks"><i data-svg-src="/lmhblog/lib/simple-icons/icons/line.min.svg"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="https://lmhlll.github.io/lmhblog/nntutorial/" data-title="Hacker&#39;s guide to Neural Networks"><i class="fab fa-weibo fa-fw"></i></a><a href="javascript:void(0);" title="Share on Myspace" data-sharer="myspace" data-url="https://lmhlll.github.io/lmhblog/nntutorial/" data-title="Hacker&#39;s guide to Neural Networks" data-description=""><i data-svg-src="/lmhblog/lib/simple-icons/icons/myspace.min.svg"></i></a><a href="javascript:void(0);" title="Share on Blogger" data-sharer="blogger" data-url="https://lmhlll.github.io/lmhblog/nntutorial/" data-title="Hacker&#39;s guide to Neural Networks" data-description=""><i class="fab fa-blogger fa-fw"></i></a><a href="javascript:void(0);" title="Share on Evernote" data-sharer="evernote" data-url="https://lmhlll.github.io/lmhblog/nntutorial/" data-title="Hacker&#39;s guide to Neural Networks"><i class="fab fa-evernote fa-fw"></i></a></span>
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="http://example.org/nntutorial/" data-title="Hacker&#39;s guide to Neural Networks"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="http://example.org/nntutorial/"><i class="fab fa-facebook-square fa-fw"></i></a><a href="javascript:void(0);" title="Share on WhatsApp" data-sharer="whatsapp" data-url="http://example.org/nntutorial/" data-title="Hacker&#39;s guide to Neural Networks" data-web><i class="fab fa-whatsapp fa-fw"></i></a><a href="javascript:void(0);" title="Share on Line" data-sharer="line" data-url="http://example.org/nntutorial/" data-title="Hacker&#39;s guide to Neural Networks"><i data-svg-src="/lib/simple-icons/icons/line.min.svg"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="http://example.org/nntutorial/" data-title="Hacker&#39;s guide to Neural Networks"><i class="fab fa-weibo fa-fw"></i></a><a href="javascript:void(0);" title="Share on Myspace" data-sharer="myspace" data-url="http://example.org/nntutorial/" data-title="Hacker&#39;s guide to Neural Networks" data-description=""><i data-svg-src="/lib/simple-icons/icons/myspace.min.svg"></i></a><a href="javascript:void(0);" title="Share on Blogger" data-sharer="blogger" data-url="http://example.org/nntutorial/" data-title="Hacker&#39;s guide to Neural Networks" data-description=""><i class="fab fa-blogger fa-fw"></i></a><a href="javascript:void(0);" title="Share on Evernote" data-sharer="evernote" data-url="http://example.org/nntutorial/" data-title="Hacker&#39;s guide to Neural Networks"><i class="fab fa-evernote fa-fw"></i></a></span>
             </div>
         </div>
     </div>
@@ -1968,16 +1968,16 @@ $$</p>
     <div class="post-info-more">
         <section class="post-tags"></section>
         <section>
-            <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/lmhblog/">Home</a></span>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
         </section>
     </div>
 
     <div class="post-nav">
-            <a href="/lmhblog/test_post/" class="next" rel="next" title="Test_post">Test_post<i class="fas fa-angle-right fa-fw"></i></a></div>
+            <a href="/test_post111/" class="next" rel="next" title="Test_post">Test_post<i class="fas fa-angle-right fa-fw"></i></a></div>
 </div>
 <div id="comments"></div></article></div>
             </main><footer class="footer">
-        <div class="footer-container"><div class="footer-line"><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/lmhblog/" target="_blank">Li Minghui</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+        <div class="footer-container"><div class="footer-line"><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">Li Minghui</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
         </div>
     </footer></div>
 
@@ -1986,5 +1986,5 @@ $$</p>
             </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
                 <i class="fas fa-comment fa-fw"></i>
             </a>
-        </div><link rel="stylesheet" href="/lmhblog/lib/katex/katex.min.css"><link rel="stylesheet" href="/lmhblog/lib/katex/copy-tex.min.css"><script type="text/javascript" src="/lmhblog/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/lmhblog/lib/autocomplete/autocomplete.min.js"></script><script type="text/javascript" src="/lmhblog/lib/lunr/lunr.min.js"></script><script type="text/javascript" src="/lmhblog/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lmhblog/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lmhblog/lib/sharer/sharer.min.js"></script><script type="text/javascript" src="/lmhblog/lib/katex/katex.min.js"></script><script type="text/javascript" src="/lmhblog/lib/katex/auto-render.min.js"></script><script type="text/javascript" src="/lmhblog/lib/katex/copy-tex.min.js"></script><script type="text/javascript" src="/lmhblog/lib/katex/mhchem.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":10},"comment":{},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"highlightTag":"em","lunrIndexURL":"/lmhblog/index.json","maxResultLength":10,"noResultsFound":"No results found","snippetLength":30,"type":"lunr"}};</script><script type="text/javascript" src="/lmhblog/js/theme.min.js"></script></body>
+        </div><link rel="stylesheet" href="/lib/katex/katex.min.css"><link rel="stylesheet" href="/lib/katex/copy-tex.min.css"><script type="text/javascript" src="/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/lib/autocomplete/autocomplete.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/sharer/sharer.min.js"></script><script type="text/javascript" src="/lib/katex/katex.min.js"></script><script type="text/javascript" src="/lib/katex/auto-render.min.js"></script><script type="text/javascript" src="/lib/katex/copy-tex.min.js"></script><script type="text/javascript" src="/lib/katex/mhchem.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":10},"comment":{},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"highlightTag":"em","lunrIndexURL":"/index.json","maxResultLength":10,"noResultsFound":"No results found","snippetLength":30,"type":"lunr"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
 </html>

@@ -2,10 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://lmhlll.github.io/lmhblog/first_post/</loc><lastmod>2022-04-12T20:32:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://lmhlll.github.io/lmhblog/</loc><lastmod>2022-04-12T20:32:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://lmhlll.github.io/lmhblog/posts/</loc><lastmod>2022-04-12T20:32:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://lmhlll.github.io/lmhblog/test_post/</loc><lastmod>2022-04-12T18:13:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://lmhlll.github.io/lmhblog/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://lmhlll.github.io/lmhblog/nntutorial/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://lmhlll.github.io/lmhblog/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>http://example.org/</loc><lastmod>2022-04-12T18:13:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://example.org/posts/</loc><lastmod>2022-04-12T18:13:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://example.org/test_post/</loc><lastmod>2022-04-12T18:13:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://example.org/test_post111/</loc><lastmod>2022-04-12T18:13:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://example.org/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/nntutorial/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
