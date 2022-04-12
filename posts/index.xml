@@ -1,29 +1,29 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Li Minghui&#39;s Blog</title>
-        <link>http://example.org/posts/</link>
+        <link>/posts/</link>
         <description>All Posts | Li Minghui&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>894194906@qq.com (Li Minghui)</managingEditor>
-            <webMaster>894194906@qq.com (Li Minghui)</webMaster><lastBuildDate>Tue, 12 Apr 2022 18:13:55 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Test_post</title>
-    <link>http://example.org/test_post/</link>
-    <pubDate>Tue, 12 Apr 2022 18:13:55 &#43;0800</pubDate>
+            <webMaster>894194906@qq.com (Li Minghui)</webMaster><lastBuildDate>Tue, 12 Apr 2022 20:32:25 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>/first_post/</link>
+    <pubDate>Tue, 12 Apr 2022 20:32:25 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://example.org/test_post/</guid>
-    <description><![CDATA[really nothing want to say!]]></description>
+    <guid>/first_post/</guid>
+    <description><![CDATA[]]></description>
 </item><item>
     <title>Test_post</title>
-    <link>http://example.org/test_post111/</link>
+    <link>/test_post/</link>
     <pubDate>Tue, 12 Apr 2022 18:13:55 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://example.org/test_post111/</guid>
+    <guid>/test_post/</guid>
     <description><![CDATA[really nothing want to say!]]></description>
 </item><item>
     <title>Hacker&#39;s guide to Neural Networks</title>
-    <link>http://example.org/nntutorial/</link>
+    <link>/nntutorial/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>http://example.org/nntutorial/</guid>
+    <guid>/nntutorial/</guid>
     <description><![CDATA[Hi there, I&rsquo;m a CS PhD student at Stanford. I&rsquo;ve worked on Deep Learning for a few years as part of my research and among several of my related pet projects is ConvNetJS - a Javascript library for training Neural Networks. Javascript allows one to nicely visualize what&rsquo;s going on and to play around with the various hyperparameter settings, but I still regularly hear from people who ask for a more thorough treatment of the topic.]]></description>
 </item></channel>
 </rss>
