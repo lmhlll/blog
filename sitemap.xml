@@ -2,6 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>//example.org/categories.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>//example.org/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>//example.org/tags.html</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://lmhlll.github.io/blog/nntutorial/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://lmhlll.github.io/blog/test_post/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://lmhlll.github.io/blog/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://lmhlll.github.io/blog/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://lmhlll.github.io/blog/posts/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://lmhlll.github.io/blog/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
