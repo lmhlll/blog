@@ -6,7 +6,7 @@
     <description>Recent content on Minghui&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lmhlll.github.io/blog/cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lmhlll.github.io/blog/cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrate to Hugo from Jekyll</title>
       <link>https://lmhlll.github.io/blog/cn/posts/migrate-from-jekyll/</link>
@@ -16,6 +16,15 @@
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>EDD120</title>
+      <link>https://lmhlll.github.io/blog/cn/posts/edd120/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lmhlll.github.io/blog/cn/posts/edd120/</guid>
+      <description>英语学习  学完第120个EDD 开始跟读口语 开始做读音和连读笔记  </description>
     </item>
     
     <item>
