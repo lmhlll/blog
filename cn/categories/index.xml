@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Minghui&#39;s Blog</title>
-    <link>https://lmhlll.github.io/blog/cn/categories/</link>
+    <link>https://lmhlll.github.io/blog/cn/categories.html</link>
     <description>Recent content in Categories on Minghui&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://lmhlll.github.io/blog/cn/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Develop</title>
-      <link>https://lmhlll.github.io/blog/cn/categories/develop/</link>
+      <link>https://lmhlll.github.io/blog/cn/categories/develop.html</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://lmhlll.github.io/blog/cn/categories/develop/</guid>
+      <guid>https://lmhlll.github.io/blog/cn/categories/develop.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://lmhlll.github.io/blog/cn/categories/golang/</link>
+      <link>https://lmhlll.github.io/blog/cn/categories/golang.html</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://lmhlll.github.io/blog/cn/categories/golang/</guid>
+      <guid>https://lmhlll.github.io/blog/cn/categories/golang.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docsssss</title>
-      <link>https://lmhlll.github.io/blog/cn/categories/docsssss/</link>
+      <link>https://lmhlll.github.io/blog/cn/categories/docsssss.html</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://lmhlll.github.io/blog/cn/categories/docsssss/</guid>
+      <guid>https://lmhlll.github.io/blog/cn/categories/docsssss.html</guid>
       <description></description>
     </item>
     
