@@ -15,21 +15,8 @@
                 href="https://lmhlll.github.io/blog/cn/posts/migrate-from-jekyll/"
                 />
   </url><url>
-    <loc>https://lmhlll.github.io/blog/cn/posts/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lmhlll.github.io/blog/posts/goisforlovers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://lmhlll.github.io/blog/cn/posts/goisforlovers/"
-                />
-  </url><url>
     <loc>https://lmhlll.github.io/blog/cn/categories/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +29,7 @@
                 />
   </url><url>
     <loc>https://lmhlll.github.io/blog/cn/categories/develop/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,7 +42,7 @@
                 />
   </url><url>
     <loc>https://lmhlll.github.io/blog/cn/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -65,6 +52,123 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://lmhlll.github.io/blog/cn/tags/development/"
+                />
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/cn/tags/go/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lmhlll.github.io/blog/tags/go/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://lmhlll.github.io/blog/cn/tags/go/"
+                />
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/cn/tags/golang/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lmhlll.github.io/blog/tags/golang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://lmhlll.github.io/blog/cn/tags/golang/"
+                />
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/cn/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lmhlll.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://lmhlll.github.io/blog/cn/"
+                />
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/cn/posts/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lmhlll.github.io/blog/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://lmhlll.github.io/blog/cn/posts/"
+                />
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/cn/tags/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lmhlll.github.io/blog/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://lmhlll.github.io/blog/cn/tags/"
+                />
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/cn/tags/templates/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lmhlll.github.io/blog/tags/templates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://lmhlll.github.io/blog/cn/tags/templates/"
+                />
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/cn/tags/themes/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lmhlll.github.io/blog/tags/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://lmhlll.github.io/blog/cn/tags/themes/"
+                />
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/cn/posts/%E6%9D%8E%E9%93%AD%E6%85%A7/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lmhlll.github.io/blog/posts/%E6%9D%8E%E9%93%AD%E6%85%A7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://lmhlll.github.io/blog/cn/posts/%E6%9D%8E%E9%93%AD%E6%85%A7/"
+                />
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/cn/posts/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lmhlll.github.io/blog/posts/goisforlovers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://lmhlll.github.io/blog/cn/posts/goisforlovers/"
                 />
   </url><url>
     <loc>https://lmhlll.github.io/blog/cn/posts/hugoisforlovers/</loc>
@@ -80,19 +184,6 @@
                 href="https://lmhlll.github.io/blog/cn/posts/hugoisforlovers/"
                 />
   </url><url>
-    <loc>https://lmhlll.github.io/blog/cn/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lmhlll.github.io/blog/tags/go/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://lmhlll.github.io/blog/cn/tags/go/"
-                />
-  </url><url>
     <loc>https://lmhlll.github.io/blog/cn/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -106,19 +197,6 @@
                 href="https://lmhlll.github.io/blog/cn/categories/golang/"
                 />
   </url><url>
-    <loc>https://lmhlll.github.io/blog/cn/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lmhlll.github.io/blog/tags/golang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://lmhlll.github.io/blog/cn/tags/golang/"
-                />
-  </url><url>
     <loc>https://lmhlll.github.io/blog/cn/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -130,71 +208,6 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://lmhlll.github.io/blog/cn/tags/hugo/"
-                />
-  </url><url>
-    <loc>https://lmhlll.github.io/blog/cn/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lmhlll.github.io/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://lmhlll.github.io/blog/cn/"
-                />
-  </url><url>
-    <loc>https://lmhlll.github.io/blog/cn/posts/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lmhlll.github.io/blog/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://lmhlll.github.io/blog/cn/posts/"
-                />
-  </url><url>
-    <loc>https://lmhlll.github.io/blog/cn/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lmhlll.github.io/blog/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://lmhlll.github.io/blog/cn/tags/"
-                />
-  </url><url>
-    <loc>https://lmhlll.github.io/blog/cn/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lmhlll.github.io/blog/tags/templates/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://lmhlll.github.io/blog/cn/tags/templates/"
-                />
-  </url><url>
-    <loc>https://lmhlll.github.io/blog/cn/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lmhlll.github.io/blog/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://lmhlll.github.io/blog/cn/tags/themes/"
                 />
   </url><url>
     <loc>https://lmhlll.github.io/blog/cn/categories/docsssss/</loc>
