@@ -1,11 +1,14 @@
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
-    ><url>
-            <loc>https://lmhlll.github.io/blog/2/</loc><lastmod>2022-04-13T08:04:12&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://lmhlll.github.io/blog/</loc><lastmod>2022-04-13T08:04:12&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://lmhlll.github.io/blog/posts/</loc><lastmod>2022-04-13T08:04:12&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://lmhlll.github.io/blog/2nd/</loc><lastmod>2022-04-13T08:01:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://lmhlll.github.io/blog/first/</loc><lastmod>2022-04-13T08:01:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://lmhlll.github.io/blog/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://lmhlll.github.io/blog/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://lmhlll.github.io/blog/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://lmhlll.github.io/blog/cn/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
