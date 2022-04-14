@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nothing on Minghui&#39;s Blog</title>
+    <link>https://lmhlll.github.io/blog/categories/nothing/</link>
+    <description>Recent content in nothing on Minghui&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lmhlll.github.io/blog/categories/nothing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>today</title>
+      <link>https://lmhlll.github.io/blog/posts/%E4%BB%8A%E5%A4%A9/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lmhlll.github.io/blog/posts/%E4%BB%8A%E5%A4%A9/</guid>
+      <description>今天  今天终于把博客网站弄好了  测试一下markdown文件的生成和使用，这是行内代码
+ 这里是引用 为什么没有下划线啊
+ 	*斜体*和_下划线_貌似是两个斜体，加粗**实际上就是加粗**  command+回车键可以换新段落 这个是什么？
+和引用一模一样
+	缩进一下吧 原来这个缩进是代码里的缩进 为什么缩进是那样的？  撒的交流空间啊了</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -28,6 +28,19 @@
     </item>
     
     <item>
+      <title>today</title>
+      <link>https://lmhlll.github.io/blog/posts/%E4%BB%8A%E5%A4%A9/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lmhlll.github.io/blog/posts/%E4%BB%8A%E5%A4%A9/</guid>
+      <description>今天  今天终于把博客网站弄好了  测试一下markdown文件的生成和使用，这是行内代码
+ 这里是引用 为什么没有下划线啊
+ 	*斜体*和_下划线_貌似是两个斜体，加粗**实际上就是加粗**  command+回车键可以换新段落 这个是什么？
+和引用一模一样
+	缩进一下吧 原来这个缩进是代码里的缩进 为什么缩进是那样的？  撒的交流空间啊了</description>
+    </item>
+    
+    <item>
       <title>李铭慧</title>
       <link>https://lmhlll.github.io/blog/posts/%E6%9D%8E%E9%93%AD%E6%85%A7/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>

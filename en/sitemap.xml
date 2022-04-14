@@ -60,6 +60,28 @@
                 href="https://lmhlll.github.io/blog/posts/"
                 />
   </url><url>
+    <loc>https://lmhlll.github.io/blog/tags/nothing/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/categories/nothing/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/tags/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://lmhlll.github.io/blog/cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lmhlll.github.io/blog/tags/"
+                />
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/posts/%E4%BB%8A%E5%A4%A9/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lmhlll.github.io/blog/categories/develop/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -110,19 +132,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://lmhlll.github.io/blog/tags/golang/"
-                />
-  </url><url>
-    <loc>https://lmhlll.github.io/blog/tags/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://lmhlll.github.io/blog/cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lmhlll.github.io/blog/tags/"
                 />
   </url><url>
     <loc>https://lmhlll.github.io/blog/tags/templates/</loc>
