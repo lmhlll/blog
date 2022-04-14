@@ -5,6 +5,34 @@
     <link>https://lmhlll.github.io/blog/cn/categories/</link>
     <description>Recent content in Categories on Minghui&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lmhlll.github.io/blog/cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://lmhlll.github.io/blog/cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Develop</title>
+      <link>https://lmhlll.github.io/blog/cn/categories/develop/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://lmhlll.github.io/blog/cn/categories/develop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://lmhlll.github.io/blog/cn/categories/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://lmhlll.github.io/blog/cn/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docsssss</title>
+      <link>https://lmhlll.github.io/blog/cn/categories/docsssss/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://lmhlll.github.io/blog/cn/categories/docsssss/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
