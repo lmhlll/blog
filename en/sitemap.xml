@@ -2,64 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lmhlll.github.io/blog/en/posts/1/</loc>
+    <loc>https://lmhlll.github.io/blog/posts/2/</loc>
+    <lastmod>2022-04-13T08:04:12+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://lmhlll.github.io/blog/posts/1/"
+                href="https://lmhlll.github.io/blog/cn/posts/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lmhlll.github.io/blog/en/posts/1/"
+                href="https://lmhlll.github.io/blog/posts/2/"
                 />
   </url><url>
-    <loc>https://lmhlll.github.io/blog/en/categories/</loc>
+    <loc>https://lmhlll.github.io/blog/</loc>
+    <lastmod>2022-04-13T08:04:12+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://lmhlll.github.io/blog/categories/"
+                href="https://lmhlll.github.io/blog/cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lmhlll.github.io/blog/en/categories/"
-                />
-  </url><url>
-    <loc>https://lmhlll.github.io/blog/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
                 href="https://lmhlll.github.io/blog/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lmhlll.github.io/blog/en/"
-                />
   </url><url>
-    <loc>https://lmhlll.github.io/blog/en/posts/</loc>
+    <loc>https://lmhlll.github.io/blog/posts/</loc>
+    <lastmod>2022-04-13T08:04:12+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
+                href="https://lmhlll.github.io/blog/cn/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://lmhlll.github.io/blog/posts/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lmhlll.github.io/blog/en/posts/"
-                />
   </url><url>
-    <loc>https://lmhlll.github.io/blog/en/tags/</loc>
+    <loc>https://lmhlll.github.io/blog/posts/2nd/</loc>
+    <lastmod>2022-04-13T08:01:29+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://lmhlll.github.io/blog/tags/"
+                href="https://lmhlll.github.io/blog/cn/posts/2nd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lmhlll.github.io/blog/en/tags/"
+                href="https://lmhlll.github.io/blog/posts/2nd/"
+                />
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/posts/first/</loc>
+    <lastmod>2022-04-13T08:01:20+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://lmhlll.github.io/blog/cn/posts/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lmhlll.github.io/blog/posts/first/"
+                />
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://lmhlll.github.io/blog/cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lmhlll.github.io/blog/categories/"
+                />
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://lmhlll.github.io/blog/cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lmhlll.github.io/blog/tags/"
                 />
   </url>
 </urlset>
