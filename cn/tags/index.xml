@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Minghui&#39;s Blog</title>
-    <link>https://lmhlll.github.io/blog/cn/tags.html</link>
+    <link>https://example.com/cn/tags/</link>
     <description>Recent content in Tags on Minghui&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://lmhlll.github.io/blog/cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/cn/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>development</title>
-      <link>https://lmhlll.github.io/blog/cn/tags/development.html</link>
+      <link>https://example.com/cn/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://lmhlll.github.io/blog/cn/tags/development.html</guid>
+      <guid>https://example.com/cn/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://lmhlll.github.io/blog/cn/tags/go.html</link>
+      <link>https://example.com/cn/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://lmhlll.github.io/blog/cn/tags/go.html</guid>
+      <guid>https://example.com/cn/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://lmhlll.github.io/blog/cn/tags/golang.html</link>
+      <link>https://example.com/cn/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://lmhlll.github.io/blog/cn/tags/golang.html</guid>
+      <guid>https://example.com/cn/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://lmhlll.github.io/blog/cn/tags/hugo.html</link>
+      <link>https://example.com/cn/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://lmhlll.github.io/blog/cn/tags/hugo.html</guid>
+      <guid>https://example.com/cn/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>https://lmhlll.github.io/blog/cn/tags/templates.html</link>
+      <link>https://example.com/cn/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://lmhlll.github.io/blog/cn/tags/templates.html</guid>
+      <guid>https://example.com/cn/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://lmhlll.github.io/blog/cn/tags/themes.html</link>
+      <link>https://example.com/cn/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://lmhlll.github.io/blog/cn/tags/themes.html</guid>
+      <guid>https://example.com/cn/tags/themes/</guid>
       <description></description>
     </item>
     
