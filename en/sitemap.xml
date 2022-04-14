@@ -2,205 +2,205 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/posts/migrate-from-jekyll/</loc>
+    <loc>https://lmhlll.github.io/blog/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/posts/migrate-from-jekyll/"
+                href="https://lmhlll.github.io/blog/cn/posts/migrate-from-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/migrate-from-jekyll/"
+                href="https://lmhlll.github.io/blog/posts/migrate-from-jekyll/"
                 />
   </url><url>
-    <loc>https://example.com/posts/1/</loc>
+    <loc>https://lmhlll.github.io/blog/posts/1/</loc>
     <lastmod>2022-04-14T10:47:03+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
-    <lastmod>2022-04-14T10:47:03+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://example.com/cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/categories/"
-                />
-  </url><url>
-    <loc>https://example.com/categories/docssss/</loc>
-    <lastmod>2022-04-14T10:47:03+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://lmhlll.github.io/blog/categories/</loc>
     <lastmod>2022-04-14T10:47:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/"
+                href="https://lmhlll.github.io/blog/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://lmhlll.github.io/blog/categories/"
                 />
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://lmhlll.github.io/blog/categories/docssss/</loc>
+    <lastmod>2022-04-14T10:47:03+08:00</lastmod>
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/</loc>
     <lastmod>2022-04-14T10:47:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/posts/"
+                href="https://lmhlll.github.io/blog/cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/"
+                href="https://lmhlll.github.io/blog/"
                 />
   </url><url>
-    <loc>https://example.com/posts/goisforlovers/</loc>
+    <loc>https://lmhlll.github.io/blog/posts/</loc>
+    <lastmod>2022-04-14T10:47:03+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://lmhlll.github.io/blog/cn/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lmhlll.github.io/blog/posts/"
+                />
+  </url><url>
+    <loc>https://lmhlll.github.io/blog/posts/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/posts/goisforlovers/"
+                href="https://lmhlll.github.io/blog/cn/posts/goisforlovers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/goisforlovers/"
+                href="https://lmhlll.github.io/blog/posts/goisforlovers/"
                 />
   </url><url>
-    <loc>https://example.com/categories/develop/</loc>
+    <loc>https://lmhlll.github.io/blog/categories/develop/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/categories/develop/"
+                href="https://lmhlll.github.io/blog/cn/categories/develop/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/develop/"
+                href="https://lmhlll.github.io/blog/categories/develop/"
                 />
   </url><url>
-    <loc>https://example.com/tags/development/</loc>
+    <loc>https://lmhlll.github.io/blog/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/tags/development/"
+                href="https://lmhlll.github.io/blog/cn/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/development/"
+                href="https://lmhlll.github.io/blog/tags/development/"
                 />
   </url><url>
-    <loc>https://example.com/posts/hugoisforlovers/</loc>
+    <loc>https://lmhlll.github.io/blog/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/posts/hugoisforlovers/"
+                href="https://lmhlll.github.io/blog/cn/posts/hugoisforlovers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/hugoisforlovers/"
+                href="https://lmhlll.github.io/blog/posts/hugoisforlovers/"
                 />
   </url><url>
-    <loc>https://example.com/tags/go/</loc>
+    <loc>https://lmhlll.github.io/blog/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/tags/go/"
+                href="https://lmhlll.github.io/blog/cn/tags/go/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/go/"
+                href="https://lmhlll.github.io/blog/tags/go/"
                 />
   </url><url>
-    <loc>https://example.com/categories/golang/</loc>
+    <loc>https://lmhlll.github.io/blog/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/categories/golang/"
+                href="https://lmhlll.github.io/blog/cn/categories/golang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/golang/"
+                href="https://lmhlll.github.io/blog/categories/golang/"
                 />
   </url><url>
-    <loc>https://example.com/tags/golang/</loc>
+    <loc>https://lmhlll.github.io/blog/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/tags/golang/"
+                href="https://lmhlll.github.io/blog/cn/tags/golang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/golang/"
+                href="https://lmhlll.github.io/blog/tags/golang/"
                 />
   </url><url>
-    <loc>https://example.com/tags/hugo/</loc>
+    <loc>https://lmhlll.github.io/blog/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/tags/hugo/"
+                href="https://lmhlll.github.io/blog/cn/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/hugo/"
+                href="https://lmhlll.github.io/blog/tags/hugo/"
                 />
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://lmhlll.github.io/blog/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/tags/"
+                href="https://lmhlll.github.io/blog/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://lmhlll.github.io/blog/tags/"
                 />
   </url><url>
-    <loc>https://example.com/tags/templates/</loc>
+    <loc>https://lmhlll.github.io/blog/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/tags/templates/"
+                href="https://lmhlll.github.io/blog/cn/tags/templates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/templates/"
+                href="https://lmhlll.github.io/blog/tags/templates/"
                 />
   </url><url>
-    <loc>https://example.com/tags/themes/</loc>
+    <loc>https://lmhlll.github.io/blog/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/tags/themes/"
+                href="https://lmhlll.github.io/blog/cn/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/themes/"
+                href="https://lmhlll.github.io/blog/tags/themes/"
                 />
   </url>
 </urlset>
