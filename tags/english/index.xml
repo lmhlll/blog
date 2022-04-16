@@ -1,0 +1,40 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>English - Tag - LoveIt</title>
+        <link>https://lmhlll.github.io/blog/tags/english/</link>
+        <description>English - Tag - LoveIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>894194906@qq.com (Li Minghui)</managingEditor>
+            <webMaster>894194906@qq.com (Li Minghui)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 16 Apr 2020 21:30:01 &#43;0800</lastBuildDate><atom:link href="https://lmhlll.github.io/blog/tags/english/" rel="self" type="application/rss+xml" /><item>
+    <title>EDD120</title>
+    <link>https://lmhlll.github.io/blog/edd120/</link>
+    <pubDate>Thu, 16 Apr 2020 21:30:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://lmhlll.github.io/blog/edd120/</guid>
+    <description><![CDATA[英语学习  学完第120个EDD 开始跟读口语 开始做读音和连读笔记  ]]></description>
+</item><item>
+    <title>lmhtest</title>
+    <link>https://lmhlll.github.io/blog/lmhtest/</link>
+    <pubDate>Thu, 16 Apr 2020 21:30:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://lmhlll.github.io/blog/lmhtest/</guid>
+    <description><![CDATA[<p>lmh test it.</p>]]></description>
+</item><item>
+    <title>lmhtest2</title>
+    <link>https://lmhlll.github.io/blog/lmhtest2/</link>
+    <pubDate>Thu, 16 Apr 2020 21:30:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://lmhlll.github.io/blog/lmhtest2/</guid>
+    <description><![CDATA[<p>lmh test it.</p>]]></description>
+</item><item>
+    <title>今天</title>
+    <link>https://lmhlll.github.io/blog/%E4%BB%8A%E5%A4%A9/</link>
+    <pubDate>Thu, 16 Apr 2020 21:30:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://lmhlll.github.io/blog/%E4%BB%8A%E5%A4%A9/</guid>
+    <description><![CDATA[今天  今天终于把博客网站弄好了  测试一下markdown文件的生成和使用，这是行内代码
+ 这里是引用 为什么没有下划线啊
+ 	*斜体*和_下划线_貌似是两个斜体，加粗**实际上就是加粗**  command+回车键可以换新段落 这个是什么？
+和引用一模一样
+	缩进一下吧 原来这个缩进是代码里的缩进 为什么缩进是那样的？  撒的交流空间啊了]]></description>
+</item></channel>
+</rss>
